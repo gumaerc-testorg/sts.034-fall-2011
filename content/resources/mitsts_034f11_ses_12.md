@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: fc3a6407-2845-5b4b-51f8-3c82b23ed707
 resourcetype: Document
 title: MITSTS_034F11_ses_12.pdf
 uid: 3f707ff1-c142-0798-0c2d-4468114771f7

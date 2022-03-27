@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6dd8e67b-563a-8891-d76b-cfb695c4933a
 resourcetype: Document
 title: MITSTS_034F11_lec_02.pdf
 uid: 70dbe3b7-a87c-998a-61c5-c6b24c743d3f
