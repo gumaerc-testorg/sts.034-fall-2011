@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains selected lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,7 +34,7 @@ LECTURE NOTES
 Introduction: Why Be A Science Communicator?
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mitsts_034f11_lec_01))
+({{% resource_link faec3f5e-f6e6-cc24-9175-542527242096 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ Introduction: Why Be A Science Communicator?
 In the Elevator or the Hallway: Talking Informally About Science
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitsts_034f11_lec_02))
+({{% resource_link 70dbe3b7-a87c-998a-61c5-c6b24c743d3f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +58,7 @@ In the Elevator or the Hallway: Talking Informally About Science
 What Does It Mean to Write About Science for the Public?
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitsts_034f11_lec_03))
+({{% resource_link 4c95decc-724f-cf5a-e75b-e32868ae7edf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +70,7 @@ What Does It Mean to Write About Science for the Public?
 Telling a Tale, Painting a Picture: Writing About Science Using Special Techniques
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitsts_034f11_lec_05))
+({{% resource_link 560d58c8-9884-3a58-7f11-c30807875331 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: A list of readings, videos, and webpages. Associated with some of the
+  session are "in class discussion" topics, which outline what to think about while
+  doing the readings and lead discussions.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -136,7 +139,7 @@ What Does It Mean to Write About Science for the Public?
 {{< tdopen >}}
 
 
-Watson, J. D., and F. H. C. Crick. "A Structure for Deoxyribose Nucleic Acid." _Nature_ 171 (1953): 737–8. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))
+Watson, J. D., and F. H. C. Crick. "A Structure for Deoxyribose Nucleic Acid." _Nature_ 171 (1953): 737–8. ([PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))
 
 Watson, James D. _The Double Helix: A Personal Account of the Discovery of the Structure of DNA_. Littlehampton Book Services Ltd, 1968, pp. 7–20 and 198–216. ISBN: 9780297760429.
 
@@ -283,10 +286,10 @@ Put Me Through to Washington: Communicating Science to Policymakers
 {{< tdopen >}}
 
 
-NASA Moonshot Memo after Sputnik \[NASA Van Braun memo\] (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mitsts_034f11_ses_12))  
+NASA Moonshot Memo after Sputnik \[NASA Van Braun memo\] ({{% resource_link 3f707ff1-c142-0798-0c2d-4468114771f7 "PDF - 1.9MB" %}})  
 Nisbet, Matthew, and Chris Mooney. "Framing Science." _Science_ 316, no. 5821 (2007): 56.
 
-Executive Summary of Report to President Obama on K–12 Science Technology Mathematics and Engineering Education. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/pcast-stemed-execsum.pdf))
+Executive Summary of Report to President Obama on K–12 Science Technology Mathematics and Engineering Education. ([PDF](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/pcast-stemed-execsum.pdf))
 
 Policy Issue analysis for web audience: Pool, Sean, Matt Woelfel, et al. "[Climate Change Could Create New Risks to Nuclear Safety](http://www.scienceprogress.org/2011/03/climate-change-could-create-new-risks-to-u-s-nuclear-reactor-safety/)." _Science Progress_ (2011).
 
