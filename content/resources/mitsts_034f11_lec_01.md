@@ -6,6 +6,7 @@ file: /courses/sts-034-science-communication-a-practical-guide-fall-2011/faec3f5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITSTS_034F11_lec_01.pdf
 uid: faec3f5e-f6e6-cc24-9175-542527242096
 ---
 This resource contains information on why be a science communicator, rivers of ice, and popular science communication. 
-

@@ -7,6 +7,7 @@ file: /courses/sts-034-science-communication-a-practical-guide-fall-2011/560d58c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,5 +17,3 @@ title: MITSTS_034F11_lec_05.pdf
 uid: 560d58c8-9884-3a58-7f11-c30807875331
 ---
 This resource contains information on writing about science, excerpt from educational book, the vanishing, a real science of the mind, this essay breaks the law, and excerpt from the canon.
-
-

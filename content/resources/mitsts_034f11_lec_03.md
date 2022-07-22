@@ -7,6 +7,7 @@ file: /courses/sts-034-science-communication-a-practical-guide-fall-2011/4c95dec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: MITSTS_034F11_lec_03.pdf
 uid: 4c95decc-724f-cf5a-e75b-e32868ae7edf
 ---
 This resource contains information on exhibiting science, the MIT museum, science & technology in museums, 'finished' and 'unfinished' science, and rivers of ice-related project options.
-
