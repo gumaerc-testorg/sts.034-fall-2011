@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'The syllabus, briefly covering class expectations, grading, and topics. '
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a3145200-8323-b485-f8c0-140bf8952ca8
 ---
@@ -23,7 +26,7 @@ Textbooks
 
 Skloot, Rebecca. _The Immortal Life of Henrietta Lacks_. Broadway Publishers, 2011. ISBN: 9781400052172.
 
-Other required readings (and required audio, video and exhibition materials) are listed separately on the [readings]({{< baseurl >}}/pages/readings) page.
+Other required readings (and required audio, video and exhibition materials) are listed separately on the {{% resource_link fc3a6407-2845-5b4b-51f8-3c82b23ed707 "readings" %}} page.
 
 Course Requirements and Assessment
 ----------------------------------
