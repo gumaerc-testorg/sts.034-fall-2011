@@ -3,6 +3,7 @@ content_type: resource
 description: Leslie Hawthorn, Jacob Kaplan-Moss, and Robert Lofthouse present together
   at DjangoCon 2008. Photo courtesy of Jacob Kaplan-Moss on Flickr. CC-BY-NC.
 file: /courses/sts-034-science-communication-a-practical-guide-fall-2011/df3b66f298afbfa9b335a2eb72fe3bfe_sts-034f11-th.jpg
+file_size: 10538
 file_type: image/jpeg
 image_metadata:
   caption: Leslie Hawthorn, Jacob Kaplan-Moss, and Robert Lofthouse present together
