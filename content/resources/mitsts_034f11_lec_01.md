@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information on why be a science communicator,
   rivers of ice, and popular science communication. '
-file: /ol-ocw-studio-app/courses/sts-034-science-communication-a-practical-guide-fall-2011/faec3f5ef6e6cc249175542527242096_MITSTS_034F11_lec_01.pdf
+file: /courses/sts-034-science-communication-a-practical-guide-fall-2011/faec3f5ef6e6cc249175542527242096_MITSTS_034F11_lec_01.pdf
 file_size: 1166623
 file_type: application/pdf
 learning_resource_types:
