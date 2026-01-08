@@ -46,9 +46,9 @@ Introduction to Science Communication
 In the Elevator or the Hallway: Talking Informally About Science
 {{< tdclose >}}{{< tdopen >}}
 
-Willingham, Daniel T. "{{% resource_link "07d0529a-8172-44bc-a15e-2840a6345d76" "Trust Me, I'm a Scientist" %}}." *Scientific American*, May 5, 2011.
+Willingham, Daniel T. "[Trust Me, I'm a Scientist](http://www.scientificamerican.com/article.cfm?id=trust-me-im-a-scientist)." *Scientific American*, May 5, 2011.
 
-agillesp123. "Dawkins vs. Tyson." November 22, 2006. Originally recorded November 5-7, 2006 at Beyond Belief: Science, Reason, Religion and Survival, La Jolla, CA. YouTube. Accessed May 14, 2012. {{% resource_link "aefb19cc-7b31-46cc-a464-a5410def6978" "http://www.youtube.com/watch?v=-_2xGIwQfik" %}}.
+agillesp123. "Dawkins vs. Tyson." November 22, 2006. Originally recorded November 5-7, 2006 at Beyond Belief: Science, Reason, Religion and Survival, La Jolla, CA. YouTube. Accessed May 14, 2012. [http://www.youtube.com/watch?v=-_2xGIwQfik](http://www.youtube.com/watch?v=-_2xGIwQfik).
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -88,7 +88,7 @@ Workshop: Talking Science (cont.)
 What Does It Mean to Write About Science for the Public?
 {{< tdclose >}}{{< tdopen >}}
 
-Watson, J. D., and F. H. C. Crick. "A Structure for Deoxyribose Nucleic Acid." *Nature* 171 (1953): 737–8. ({{% resource_link "490a4ccb-ab71-43ab-b96c-de3719dd2354" "PDF" %}})
+Watson, J. D., and F. H. C. Crick. "A Structure for Deoxyribose Nucleic Acid." *Nature* 171 (1953): 737–8. ([PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))
 
 Watson, James D. *The Double Helix: A Personal Account of the Discovery of the Structure of DNA*. Littlehampton Book Services Ltd, 1968, pp. 7–20 and 198–216. ISBN: 9780297760429.
 
@@ -112,11 +112,11 @@ Guest speaker: David Breashears, director of Glacierworks
 Telling a Tale, Painting a Picture: Writing About Science Using Special Techniques
 {{< tdclose >}}{{< tdopen >}}
 
-McGrath, Susan. "{{% resource_link "64e822df-1961-456e-bc5e-32974962ccda" "The Vanishing" %}}." *The Smithsonian*, February 2007.
+McGrath, Susan. "[The Vanishing](https://www.smithsonianmag.com/science-nature/the-vanishing-145631290/)." *The Smithsonian*, February 2007.
 
-Burge, Tyler. "{{% resource_link "d65d3c7b-ccae-416f-a758-1acb81d9f339" "A Real Science of the Mind" %}}." Opinionator: Exclusive Online Commentary From The Times, December 19, 2010.
+Burge, Tyler. "[A Real Science of the Mind](http://opinionator.blogs.nytimes.com/2010/12/19/a-real-science-of-mind/?scp=18&sq=science&st=Search)." Opinionator: Exclusive Online Commentary From The Times, December 19, 2010.
 
-Crichton, Michael. "{{% resource_link "a90d73f4-99c3-4899-80a4-9c131892f6ec" "This Essay Breaks the Law" %}}," *The New York Times*, March 19, 2006.
+Crichton, Michael. "[This Essay Breaks the Law](http://www.nytimes.com/2006/03/19/opinion/19crichton.html?pagewanted=1&sq=gene%20patents&st=Search&scp=2)," *The New York Times*, March 19, 2006.
 
 Angier, Natalie. Excerpts from *The Canon: A Whirligig Tour of the Beautiful Basics of Science*. Houghton Mifflin Harcourt, 2007, pp. 87–91. ISBN: 9780618242955.
 
@@ -157,7 +157,7 @@ If time permits, you will also discuss and brainstorm a plan for your final proj
 {{< tdclose >}}{{< tdopen >}}
 Exhibiting "Unfinished" Science
 {{< tdclose >}}{{< tdopen >}}
-Durant, John. "The Challenge and the Opportunity of Presenting 'Unfinished Science.'" In *Creating Connections: Museums and the Public Understanding of Current Research*. Edited by D. Chittenden, G. Farmelo, and B. V. Lewenstein. Altamira Press, 2004, pp. 47–60. ISBN: 9780759104754. \[Preview at {{% resource_link "adc25617-6b15-4153-8b53-585abc5b63fd" "Google Books" %}}\]
+Durant, John. "The Challenge and the Opportunity of Presenting 'Unfinished Science.'" In *Creating Connections: Museums and the Public Understanding of Current Research*. Edited by D. Chittenden, G. Farmelo, and B. V. Lewenstein. Altamira Press, 2004, pp. 47–60. ISBN: 9780759104754. \[Preview at [Google Books](http://books.google.com/books?id=ZkVyylNpWtUC&pg=PA47#v=onepage)\]
 {{< tdclose >}}{{< tdopen >}}
 Many museums of science and technology focus principally on the history of science and technology — that is, on finished science. In this class, we will discuss the distinctive challenges involved in trying to display current science and technology — that is, unfinished science.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -177,9 +177,9 @@ Put Me Through to Washington: Communicating Science to Policymakers
 NASA Moonshot Memo after Sputnik \[NASA Van Braun memo\] ({{% resource_link "3f707ff1-c142-0798-0c2d-4468114771f7" "PDF - 1.9MB" %}})   
 Nisbet, Matthew, and Chris Mooney. "Framing Science." *Science* 316, no. 5821 (2007): 56.
 
-Executive Summary of Report to President Obama on K–12 Science Technology Mathematics and Engineering Education. ({{% resource_link "02d9c2fd-9a0c-458e-835c-a01ed088d5e9" "PDF" %}})
+Executive Summary of Report to President Obama on K–12 Science Technology Mathematics and Engineering Education. ([PDF](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/pcast-stemed-execsum.pdf))
 
-Policy Issue analysis for web audience: Pool, Sean, Matt Woelfel, et al. "{{% resource_link "e445a0d8-8d1a-43a2-97ff-a83b9e183035" "Climate Change Could Create New Risks to Nuclear Safety" %}}." *Science Progress* (2011).
+Policy Issue analysis for web audience: Pool, Sean, Matt Woelfel, et al. "[Climate Change Could Create New Risks to Nuclear Safety](http://www.scienceprogress.org/2011/03/climate-change-could-create-new-risks-to-u-s-nuclear-reactor-safety/)." *Science Progress* (2011).
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -251,11 +251,11 @@ Workshop: Projects
 From Cancer Cells to String Theory: Communicating Complex Material
 {{< tdclose >}}{{< tdopen >}}
 
-"{{% resource_link "dd6ca932-73e0-4802-ac11-02dce8b49806" "The Elegant Universe: Einstein's Dream" %}}." Part 1 of NOVA Series. Originally aired November 2, 2011 on PBS.
+"[The Elegant Universe: Einstein's Dream](http://www.pbs.org/wgbh/nova/physics/elegant-universe-einstein.html)." Part 1 of NOVA Series. Originally aired November 2, 2011 on PBS.
 
-Johnson, George. "{{% resource_link "dc91a4d1-045b-4085-bbe3-4073f7a669f3" "Cancer Cells Come Into Sharper Focus" %}}," *The New York Times*, August 15, 2011.
+Johnson, George. "[Cancer Cells Come Into Sharper Focus](http://www.nytimes.com/2011/08/16/health/16cancer.html)," *The New York Times*, August 15, 2011.
 
-Venkataraman, Bina. "{{% resource_link "37f179d5-fd43-4d1f-9bfe-232a959806c2" "Finding Order in the Apparent Chaos of Currents" %}}," *The New York Times*, September 28, 2009.
+Venkataraman, Bina. "[Finding Order in the Apparent Chaos of Currents](http://www.nytimes.com/2009/09/29/science/29chaos.html?pagewanted=all)," *The New York Times*, September 28, 2009.
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -280,7 +280,7 @@ Workshop: Projects
 {{< tdclose >}}{{< tdopen >}}
 Communicating Controversy
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "3fd023bd-c297-4523-8e1f-90730d0483bd" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Durant, John. "'Refrain from Using the Alphabet': How Community Outreach Catalyzed the Life Sciences at MIT." In {{% resource_link "3fd023bd-c297-4523-8e1f-90730d0483bd" "*Becoming MIT: Moments of Decision*" %}}. Edited by David Kaiser. MIT Press, 2010, pp. 145–163. ISBN: 9780262113236.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262113236) Durant, John. "'Refrain from Using the Alphabet': How Community Outreach Catalyzed the Life Sciences at MIT." In [*Becoming MIT: Moments of Decision*](https://mitpress.mit.edu/9780262113236). Edited by David Kaiser. MIT Press, 2010, pp. 145–163. ISBN: 9780262113236.
 {{< tdclose >}}{{< tdopen >}}
 
 What challenges face science communicators when they come to deal with subjects on which scientists themselves disagree?
@@ -294,7 +294,7 @@ Using a famous controversy about recombinant DNA technology that took place in C
 {{< tdclose >}}{{< tdopen >}}
 On the Record: Communicating to the Media
 {{< tdclose >}}{{< tdopen >}}
-Please review the {{% resource_link "67944553-3bb7-4549-8fc1-ecd9ff9d3233" "news section" %}} of the MIT website
+Please review the [news section](http://web.mit.edu/newsoffice/) of the MIT website
 {{< tdclose >}}{{< tdopen >}}
 
 What are the aims of this news section?
@@ -322,7 +322,7 @@ Workshop: Projects
 {{< tdclose >}}{{< tdopen >}}
 On the Witness Stand: Communicating Science in the Courtroom
 {{< tdclose >}}{{< tdopen >}}
-Read background on Ken Miller, evolution and the Dover Trial (be sure to read the questions at the bottom about Dover): NOVA. {{% resource_link "4a0d2ef7-e51c-4771-bb76-8b98425a0778" "In Defense of Evolution" %}}. NOVA. October 10. 2007.
+Read background on Ken Miller, evolution and the Dover Trial (be sure to read the questions at the bottom about Dover): NOVA. [In Defense of Evolution](http://www.pbs.org/wgbh/nova/evolution/defense-evolution.html). NOVA. October 10. 2007.
 {{< tdclose >}}{{< tdopen >}}
 
 What role do scientists and science play in the courtroom?
