@@ -7,8 +7,8 @@ file_size: 10538
 file_type: image/jpeg
 image_metadata:
   caption: Leslie Hawthorn, Jacob Kaplan-Moss, and Robert Lofthouse present together
-    at DjangoCon 2008. (Photo courtesy of {{% resource_link "aa581cbf-0618-4d82-a7bd-8ee73f77ae90"
-    "Jacob Kaplan-Moss" %}} on Flickr. CC-BY-NC.)
+    at DjangoCon 2008. (Photo courtesy of [Jacob Kaplan-Moss](http://www.flickr.com/photos/jacobian/2867713399/)
+    on Flickr. CC-BY-NC.)
   credit: Photo courtesy of Jacob Kaplan-Moss on Flickr. CC-BY-NC.
   image-alt: A photo of three people on a presentation stage at a conference.
 learning_resource_types: []
